@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+
+:root {
+    --bs-body-font-family: 'Allura';
+}
+
+body {
+    background: url('@/assets/img/flower-clip-art-corner-flower.png'), #ffebd4 !important;
+}
+
+.inviteCard {
+    background-color: #f6f0df;
+}
+
+.nameSignature {
+    font-size: 5.75em;
+    font-weight: bold;
+    color: #1e1e1e;   
+}
+
+.subHeadText {
+    font-size: 2em;
+    color: #1e1e1e;   
+}
