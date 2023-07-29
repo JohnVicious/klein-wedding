@@ -32,7 +32,7 @@ onUnmounted(() => {
 <template>
   
   <div class="container position-sticky z-index-sticky top-0">
-    <div class="row mt-6 inviteCard border-0 shadow p-4" style="min-height:500px;">
+    <div class="row mt-6 inviteCard border-0 shadow p-4" >
       <div class="col-12 text-center">
 
 
@@ -40,8 +40,8 @@ onUnmounted(() => {
 
           <!-- Header -->
           <div class="row">
-            <div class="col-12 text-center nameSignature">
-              John & Jessica
+            <div class="col-12 text-center nameSignature p-4">
+              <span>John & Jessica</span>
             </div>
           </div>
           <div class="row">
