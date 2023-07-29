@@ -1,12 +1,16 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
 
-:root {
-    --bs-body-font-family: 'Allura';
-}
+// :root {
+//     --bs-body-font-family: 'Allura';
+// }
 
 body {
     background: url('@/assets/img/flower-clip-art-corner-flower.png'), #ffebd4 !important;
+}
+
+.allura {
+    font-family: 'Allura';
 }
 
 .inviteCard {
@@ -23,4 +27,18 @@ body {
 .subHeadText {
     font-size: 2em;
     color: #1e1e1e;   
+}
+
+.navTxt {
+    color: #1e1e1e;
+    font-weight: 300 !important;
+}
+
+.navTxt:hover {
+    color: #676767;
+}
+
+.router-link-active {
+    color: #7c5161 !important;
+    font-weight: 400 !important;
 }
