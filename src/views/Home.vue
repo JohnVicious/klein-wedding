@@ -34,16 +34,16 @@ onUnmounted(() => {
                 </div>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                      <img src="@/assets/img/johnjess1.jpg" class="d-block w-100 rounded" >
-                  </div>
-                  <div class="carousel-item">
-                      <img src="@/assets/img/johnjess2.jpg" class="d-block w-100 rounded" >
-                  </div>
-                  <div class="carousel-item">
                       <img src="@/assets/img/johnjess3.jpg" class="d-block w-100 rounded" >
                   </div>
                   <div class="carousel-item">
                       <img src="@/assets/img/johnjess4.jpg" class="d-block w-100 rounded" >
+                  </div>
+                  <div class="carousel-item">
+                      <img src="@/assets/img/johnjess1.jpg" class="d-block w-100 rounded" >
+                  </div>
+                  <div class="carousel-item">
+                      <img src="@/assets/img/johnjess2.jpg" class="d-block w-100 rounded" >
                   </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
