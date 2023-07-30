@@ -42,3 +42,38 @@ body {
     color: #7c5161 !important;
     font-weight: 400 !important;
 }
+
+.itinerary-dayheader {
+    font-size: 2em;
+    color: #7c5161 !important;
+    // border-bottom: 2px solid #7c516155;
+}
+
+.itinerary-dayheader span {
+    padding-top: 5px;
+}
+
+.itinerary-dayheader img {
+    filter: invert(33%) sepia(11%) saturate(1458%) hue-rotate(286deg) brightness(95%) contrast(81%);
+    width: 100px;
+    height:41.6px;
+    opacity: 0.5;
+    margin: 0px 15px 20px 15px;
+}
+
+.itinerary-eventtitle {
+    text-align: right;
+    color: #7c5161 !important;
+}
+
+.itinerary-eventtime {
+    text-align: left;
+    color: #7c5161 !important;
+    border-left: 2px solid #7c516155;
+    display: flex;
+    align-items: center;
+}
+
+.itinerary-eventpanel {    
+    border-bottom: 1px solid #7c516124;
+}
