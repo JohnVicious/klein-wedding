@@ -24,7 +24,7 @@ onUnmounted(() => {
 
           <!-- THURSDAY -->
           <div class="row mt-5 d-flex flex-nowrap">
-            <div class="col-12 itinerary-dayheader allura text-center d-flex flex-nowrap">
+            <div class="col-12 itinerary-dayheader allura d-flex flex-nowrap justify-content-center">
               <img src="@/assets/img/dayheader_leftmark.svg" />
               <span>Thursday</span>
               <img src="@/assets/img/dayheader_rightmark.svg" />
@@ -54,7 +54,7 @@ onUnmounted(() => {
 
           <!-- FRIDAY -->
           <div class="row mt-5 d-flex flex-nowrap">
-            <div class="col-12 itinerary-dayheader allura text-center d-flex flex-nowrap">
+            <div class="col-12 itinerary-dayheader allura text-center d-flex flex-nowrap justify-content-center">
               <img src="@/assets/img/dayheader_leftmark.svg" />
               <span>Friday</span>
               <img src="@/assets/img/dayheader_rightmark.svg" />
