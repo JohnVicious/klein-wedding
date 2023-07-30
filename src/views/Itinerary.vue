@@ -23,13 +23,11 @@ onUnmounted(() => {
           <Navlinks/>
 
           <!-- THURSDAY -->
-          <div class="row mt-5">
-            <div class="col-12">
-              <div class="itinerary-dayheader allura text-center">
-                <img src="@/assets/img/dayheader_leftmark.svg" />
-                <span>Thursday</span>
-                <img src="@/assets/img/dayheader_rightmark.svg" />
-              </div>
+          <div class="row mt-5 d-flex flex-nowrap">
+            <div class="col-12 itinerary-dayheader allura text-center d-flex flex-nowrap">
+              <img src="@/assets/img/dayheader_leftmark.svg" />
+              <span>Thursday</span>
+              <img src="@/assets/img/dayheader_rightmark.svg" />
             </div>
           </div>
           <div class="row mt-2 itinerary-eventpanel">
@@ -55,13 +53,11 @@ onUnmounted(() => {
           </div>
 
           <!-- FRIDAY -->
-          <div class="row mt-5">
-            <div class="col-12">
-              <div class="itinerary-dayheader allura text-center">
-                <img src="@/assets/img/dayheader_leftmark.svg" />
-                <span>Friday</span>
-                <img src="@/assets/img/dayheader_rightmark.svg" />
-              </div>
+          <div class="row mt-5 d-flex flex-nowrap">
+            <div class="col-12 itinerary-dayheader allura text-center d-flex flex-nowrap">
+              <img src="@/assets/img/dayheader_leftmark.svg" />
+              <span>Friday</span>
+              <img src="@/assets/img/dayheader_rightmark.svg" />
             </div>
           </div>
           <div class="row mt-2 itinerary-eventpanel">

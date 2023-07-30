@@ -49,16 +49,12 @@ body {
     // border-bottom: 2px solid #7c516155;
 }
 
-.itinerary-dayheader span {
-    padding-top: 5px;
-}
-
 .itinerary-dayheader img {
     filter: invert(33%) sepia(11%) saturate(1458%) hue-rotate(286deg) brightness(95%) contrast(81%);
-    width: 100px;
-    height:41.6px;
+    width: 75px;
+    height:35px;
     opacity: 0.5;
-    margin: 0px 15px 20px 15px;
+    padding: 0px 10px;
 }
 
 .itinerary-eventtitle {
