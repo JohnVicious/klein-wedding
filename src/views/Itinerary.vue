@@ -30,7 +30,7 @@ onUnmounted(() => {
           <router-view></router-view>
 
           <!-- Location content -->
-          <div v-if="this.$route.path == '/itinerary'" class="row mt-4">
+          <div class="row mt-4">
             <div class="col-6 offset-3 text-start">
               <p class="indent" >
                 We are thrilled to have you join us on this incredible journey as we embark on a beautiful weekend of love, laughter, and lifelong memories. 
