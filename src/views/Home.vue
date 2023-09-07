@@ -24,7 +24,7 @@ onUnmounted(() => {
 
           <!-- Home content -->
           <div class="row">
-            <div class="col-6 col-lg-6 p-4">
+            <div class="col-12 col-lg-6 p-4">
               <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-indicators">
                   <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -56,7 +56,7 @@ onUnmounted(() => {
                 </button>
               </div>
             </div>
-            <div class="col-4 col-lg-4 p-4 text-start">
+            <div class="col-12 col-lg-4 p-4 text-start">
               <p class="lh-sm">
                 My love, today you are my person
                 <br/>
