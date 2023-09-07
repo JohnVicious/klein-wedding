@@ -8,7 +8,7 @@
                 <div>
                     <RouterLink
                         class="h5 px-4 font-italic border-bottom navTxt"                
-                        to="/"
+                        :to="{ name: 'home' }"
                         rel="tooltip"
                     >
                         Home
@@ -16,7 +16,7 @@
                     
                     <RouterLink
                         class="h5 px-4 font-italic border-bottom navTxt"
-                        to="/itinerary"
+                        :to="{ name: 'itinerary' }"
                         rel="tooltip"
                     >
                         Itinerary
@@ -24,7 +24,7 @@
 
                     <RouterLink
                         class="h5 px-4 font-italic border-bottom navTxt"
-                        to="/location"
+                        :to="{ name: 'location' }"
                         rel="tooltip"
                     >
                         Location
