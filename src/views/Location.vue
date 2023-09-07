@@ -63,9 +63,12 @@ onUnmounted(() => {
                     </div>
                   </div>
                   <div class="col-12 col-lg-6 mt-4">
-                    <h4>Big Cedar</h4>
+                    <h4><a href="https://bigcedar.com/">Big Cedar</a></h4>
                     <div>
                       <p class="text-left">190 Top of the Rock Rd, Ridgedale, MO 65739<br/>Private Event - Invite Only</p>
+                      <p>
+                        <a href="https://bigcedar.com/events/#calendar">Big Cedar Calendar</a>
+                      </p>
                     </div>
                   </div>
               </div>

@@ -1,6 +1,12 @@
 import { createRouter, createWebHistory } from "vue-router";
 import Home from "../views/Home.vue";
 import Itinerary from "../views/Itinerary.vue";
+import Monday from "../views/itinerary/Monday.vue";
+import Wednesday from "../views/itinerary/Wednesday.vue";
+import Thursday from "../views/itinerary/Thursday.vue";
+import Friday from "../views/itinerary/Friday.vue";
+import Saturday from "../views/itinerary/Saturday.vue";
+import Sunday from "../views/itinerary/Sunday.vue";
 import Location from "../views/Location.vue";
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -14,6 +20,32 @@ const router = createRouter({
       path: "/itinerary",
       name: "itinerary",
       component: Itinerary,
+      children: [
+        {
+          path: 'Monday',
+          component: Monday,
+        },
+        {
+          path: 'Wednesday',
+          component: Wednesday,
+        },
+        {
+          path: 'Thursday',
+          component: Thursday,
+        },
+        {
+          path: 'Friday',
+          component: Friday,
+        },
+        {
+          path: 'Saturday',
+          component: Saturday,
+        },
+        {
+          path: 'Sunday',
+          component: Sunday,
+        }
+      ]
     },
     {
       path: "/location",
