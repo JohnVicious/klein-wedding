@@ -31,14 +31,14 @@ onUnmounted(() => {
 
           <!-- Location content -->
           <div v-if="$route.path == '/itinerary'" class="row mt-4">
-            <div class="col-6 offset-3 text-start">
+            <div class="col-md-8 col-lg-6 offset-md-2 offset-lg-3 text-start">
               <p class="indent" >
                 We are thrilled to have you join us on this incredible journey as we embark on a beautiful weekend of love, laughter, and lifelong memories. 
                 This wedding itinerary calendar is your guide to all the exciting events and moments that will make our special weekend even more unforgettable, and we can't wait to share them with you. 
                 So, grab your calendars and get ready for a weekend filled with joy and happiness!
               </p>
               <p class="indent">
-                For things to do while Jessica and John are busy, check the <a href="https://bigcedar.com/events/#calendar">Big Cedar Calendar</a> for additional events and activites.
+                Any event tagged with a Red circle will be an event attended by both Jessican and John. Any event tagged with a Blue circle will be only with John; any event tagged Pink will be only with Jess. For things to do while Jessica and John are busy, check the <a href="https://bigcedar.com/events/#calendar">Big Cedar Calendar</a> for additional events and activites.
               </p>
             </div>
           </div>
@@ -132,4 +132,5 @@ onUnmounted(() => {
     left: -31.8px;
   }
 }
+
 </style>

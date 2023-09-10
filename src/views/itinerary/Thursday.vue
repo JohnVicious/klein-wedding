@@ -6,7 +6,7 @@
           <ul class="timeline-1 text-black">
             <li class="event" data-date="9:00am - 12:00pm">
               <h4 class="mb-3 pt-3">Golf Cart Tour & Museum</h4>
-              <p>Get ready for an exciting golf cart tour through the mountain-side and one of the largest native american museums in North America.</p>
+              <p>Get ready for an exciting golf cart tour through the mountain-side and one of the largest native american museums in North America. For more information and to book your tickets, please visit <a href="https://bigcedar.com/activity/lost-canyon-cave-nature-trail/">Lost Canyon</a></p>
             </li>
             <li class="event" data-date="12:00pm - 1:30pm">
               <h4 class="mb-3 pt-3">Lunch @ Arnie's Barn</h4>
