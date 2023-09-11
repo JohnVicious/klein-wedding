@@ -38,7 +38,7 @@ onUnmounted(() => {
                 So, grab your calendars and get ready for a weekend filled with joy and happiness!
               </p>
               <p class="indent">
-                Any event tagged with a Red circle will be an event attended by both Jessican and John. Any event tagged with a Blue circle will be only with John; any event tagged Pink will be only with Jess. For things to do while Jessica and John are busy, check the <a href="https://bigcedar.com/events/#calendar">Big Cedar Calendar</a> for additional events and activites.
+                Any event tagged with a Red circle will be an event attended by both Jessica and John. Any event tagged with a Blue circle will be only with John; any event tagged Pink will be only with Jess. For things to do while Jessica and John are busy, check the <a href="https://bigcedar.com/events/#calendar">Big Cedar Calendar</a> for additional events and activites.
               </p>
             </div>
           </div>

@@ -8,10 +8,6 @@
               <h4 class="mb-3 pt-3">Breakfast @ Devil's Pool</h4>
               <p>The newly wed's will be down at Devil's Pool for breakfast.</p>
             </li>
-            <li class="event" data-date="3:00pm - 4:00pm">
-              <h4 class="mb-3 pt-3">Cocktail @ Worman House</h4>
-              <p>More cocktails to fight the hangover! Worman house is located next to the check in building.</p>
-            </li>
             <li class="event" data-date="5:00pm - 10:00pm">
               <h4 class="mb-3 pt-3">Fun Mountain</h4>
               <p class="mb-0">We will be at fun mountain enjoying some pizza, games, and the LSU football game. Come by and have some fun with us!</p>
