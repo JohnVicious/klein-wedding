@@ -4,10 +4,6 @@
       <div class="col-md-12">
         <div id="content">
           <ul class="timeline-1 text-black">
-            <li class="eventA" data-date="11:00am - 12:00pm">
-              <h4 class="mb-3 pt-3">Stocking Decorations</h4>
-              <p>Jess will be decorating stockings at the main building.</p>
-            </li>
             <li class="eventB" data-date="11:30am - 5:00pm">
               <h4 class="mb-3 pt-3">Golfing @ Payne's</h4>
               <p>John will be playing golf at Payne's Valley at this time.</p>

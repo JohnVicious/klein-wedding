@@ -12,6 +12,10 @@
               <h4 class="mb-3 pt-3">Lunch @ Arnie's Barn</h4>
               <p>John and Jessica will be at Arnie's Barn for lunch, come on by and have a bite with us!</p>
             </li>
+            <li class="event" data-date="4:00pm - 5:00pm">
+              <h4 class="mb-3 pt-3">Rehearsal</h4>
+              <p>John and Jessica will be doing the rehearsal at the Garden Chapel!</p>
+            </li>
             <li class="event" data-date="5:00pm - 7:30pm">
               <h4 class="mb-3 pt-3">Rehearsal Dinner @ Mountain Top</h4>
               <p class="mb-0">Join us at Mountain Top restaurant.</p>

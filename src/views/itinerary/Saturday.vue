@@ -6,7 +6,7 @@
           <ul class="timeline-1 text-black">
             <li class="event" data-date="9:00am - 10:30am">
               <h4 class="mb-3 pt-3">Breakfast @ Devil's Pool</h4>
-              <p>The newly wed's will be down at Devil's Pool for breakfast.</p>
+              <p>The newlyweds will be down at Devil's Pool for breakfast.</p>
             </li>
             <li class="event" data-date="5:00pm - 6:00pm">
               <h4 class="mb-3 pt-3">Fun Mountain - Bowling</h4>
@@ -14,7 +14,7 @@
             </li>
             <li class="event" data-date="6:00pm - 10:00pm">
               <h4 class="mb-3 pt-3">Fun Mountain</h4>
-              <p class="mb-0">We will be at fun mountain enjoying some pizza, games, and the LSU football game. Come by and have some fun with us!</p>
+              <p class="mb-0">We will be at Fun Mountain enjoying some pizza, games, and the LSU football game. Come by and have some fun with us!</p>
             </li>
           </ul>
         </div>
