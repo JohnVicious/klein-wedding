@@ -28,6 +28,14 @@
                         rel="tooltip"
                     >
                         Location
+                    </RouterLink>  
+
+                    <RouterLink
+                        class="h5 px-4 font-italic border-bottom navTxt"
+                        :to="{ name: 'music' }"
+                        rel="tooltip"
+                    >
+                        Music
                     </RouterLink>                
                 </div>
             </div>

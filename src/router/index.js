@@ -8,6 +8,7 @@ import Friday from "../views/itinerary/Friday.vue";
 import Saturday from "../views/itinerary/Saturday.vue";
 import Sunday from "../views/itinerary/Sunday.vue";
 import Location from "../views/Location.vue";
+import Music from "../views/Music.vue";
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -51,6 +52,11 @@ const router = createRouter({
       path: "/location",
       name: "location",
       component: Location,
+    },
+    {
+      path: "/music",
+      name: "music",
+      component: Music,
     },
   ],
 });
